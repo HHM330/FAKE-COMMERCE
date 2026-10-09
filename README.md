@@ -1,5 +1,6 @@
 # FAKE‑COMMERCE Dataset
 > FAKE-COMMERCE: A Challenge Dataset for Deepfake Detection in Commercial Endorsement Videos
+
 ![FAKE-COMMERCE](https://github.com/HHM330/FAKE-COMMERCE/blob/main/FAKE-COMMERCE.png?raw=true)
 
 ## Dataset Description
@@ -11,9 +12,9 @@ FAKE‑COMMERCE is a real‑world advertising deepfake benchmark built for KOL s
 - Covers 23 real‑world product categories from short‑video advertising
 - Contains manually annotated naturally‑occurring purpose‑driven occlusions: 312 annotated natural‑occlusion clips (31.2% of total samples)
 - Occlusion annotations: occlusion type (limb / product / static_sticker / dynamic_sticker), occlusion severity (light / moderate / severe), and real‑world occlusion screenshot. See Sheet2 of map.xlsx
-![occlusion_show](https://github.com/HHM330/FAKE-COMMERCE/blob/main/occlusion_show.png?raw=true)
 - Forgery types: full‑face and audio forgery, partial‑face and audio forgery, audio‑only forgery
 - Total clips: 1000 real advertisement videos, 3000 manipulated deepfake clips (average 10‑second cropped version)
+![occlusion_show](https://github.com/HHM330/FAKE-COMMERCE/blob/main/occlusion_show.png?raw=true)
 
 ## 📊 Dataset Statistics
 - Total original real advertisement clips: 1000
