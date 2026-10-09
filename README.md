@@ -96,21 +96,22 @@ To obtain raw video clips for non‑commercial academic research:
       - Confirm you will only use for academic non‑commercial research, will not redistribute, repost, or reshare raw dataset to third parties.
 3. After verification, we will send download link / access instructions.
 
+## 📄 Privacy Statement
+To ensure the privacy of individuals featured in the dataset, we have implemented the following measures:
+Applicant Verification: Access is granted only after verifying the applicant's academic email address, personal electronic signature, and other necessary credentials.
+Usage Agreement: Applicants are required to sign a comprehensive agreement to ensure the dataset is used exclusively for research purposes.
+Right to Removal: If any part of the dataset impacts you, please contact us to request its removal.
+
 ## 📝 Citation
 If you use FAKE‑COMMERCE dataset in your work, please cite our paper:
 ```bibtex
 @article{2026fakecommerce,
   title={Are the Advertisements You Watch Authentic? Deepfake Detection in Key Opinion Leader Short‑Video Advertisements with Purpose‑Driven Occlusion},
   author={Heyong Wang, Hongman He, Ming Hong, Haotian Sheng, Junqiu Liu},
-  journal={Aslib Journal of Information Management},
+  journal={###},
   year={2026}
 }
 
-## 📄 Privacy Statement
-To ensure the privacy of individuals featured in the dataset, we have implemented the following measures:
-Applicant Verification: Access is granted only after verifying the applicant's academic email address, personal electronic signature, and other necessary credentials.
-Usage Agreement: Applicants are required to sign a comprehensive agreement to ensure the dataset is used exclusively for research purposes.
-Right to Removal: If any part of the dataset impacts you, please contact us to request its removal.
 We are committed to safeguarding privacy while enabling research advancements.
 
 
