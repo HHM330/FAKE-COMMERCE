@@ -50,7 +50,7 @@ FAKE‑COMMERCE is a real‑world advertising deepfake benchmark built for KOL s
 
 ### Preprocessing
 - Synthetic occlusion augmentation (training only):
-  - Limb occlusion: hand texture images from **11k hands dataset**, diverse poses/genders
+  - Limb occlusion: hand texture images from **[11k hands dataset](https://github.com/mahmoudnafifi/11K-Hands)**, diverse poses/genders
   - Product/sticker occlusion: BGR color range sampling
   - Temporal consistency: same texture + fixed scale/rotation + minor pixel offsets within each clip
   - **Disabled** for validation and test sets
