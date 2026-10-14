@@ -4,7 +4,7 @@
 ![FAKE-COMMERCE](https://github.com/HHM330/FAKE-COMMERCE/blob/main/FAKE-COMMERCE.png?raw=true)
 
 ## Dataset Description
-Although widely used, existing benchmarks such as FaceForensics++ , Celeb-DF, and Wilddeepfake are not designed for commercial endorsement scenarios. They predominantly feature frontal, unoccluded faces from cinematic or interview sources, and lack challenges caused by product interaction from Key Opinion Leader (KOL) advertisements. To fill this gap, we constructed a deepfake dataset specifically tailored to commercial advertising video scenarios (FAKE-COMMERCE, FCD), thereby addressing a critical data gap in the current deepfake detection research focused on digital marketing content.
+Although widely used, existing benchmarks such as [FaceForensics++](https://github.com/ondyari/FaceForensics) , [Celeb-DF-v2](https://github.com/yuezunli/celeb-deepfakeforensics), and [WildDeepfake](https://github.com/xingjunm/wild-deepfake) are not designed for commercial endorsement scenarios. They predominantly feature frontal, unoccluded faces from cinematic or interview sources, and lack challenges caused by product interaction from Key Opinion Leader (KOL) advertisements. To fill this gap, we constructed a deepfake dataset specifically tailored to commercial advertising video scenarios (FAKE-COMMERCE, FCD), thereby addressing a critical data gap in the current deepfake detection research focused on digital marketing content.
 
 ## 📌 Introduction
 FAKE‑COMMERCE is a real‑world advertising deepfake benchmark built for KOL short‑video advertisement scenarios.
