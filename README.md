@@ -38,7 +38,7 @@ FAKE‑COMMERCE is a real‑world advertising deepfake benchmark built for KOL s
 - Raw corpus: 4,510 videos containing product recommendation links (crawled under fair-use academic policy)
 - After manual screening: 1,000 videos with clear advertising content and front-facing faces during promotional segments
 - Product categories: 23 categories (e.g., Electronics & Digital 25.3%, Cosmetics & Personal Care 18.4%, Household Appliances 14.1%, etc.)
-- Face-swap source: **SCUT-FBP5500 v2 dataset** — diverse faces selected for identity transfer
+- Face-swap source: **[SCUT-FBP5500 v2 dataset](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release)** — diverse faces selected for identity transfer
 - Ethics & Copyright: All videos publicly accessible; used strictly for non-commercial academic research; copyright retained by original creators; content removal requests accepted (see Contact). Data use complies with academic fair-use principles.
 
 ### Forgery Generation
